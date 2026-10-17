@@ -23,10 +23,10 @@
 ---
 
 ## Profile Overview
-I am a full-stack developer and AI/ML practitioner focused on building scalable digital products that combine strong user experience, clean architecture, and measurable business impact. With hands-on experience across frontend, backend, and data/ML tooling, I prioritize delivering products that are maintainable and measurable.
+I am a full-stack developer and AI/ML practitioner focused on building scalable digital products that combine strong user experience, clean architecture, and measurable business impact. With hands[...]
 
 ## About
-I build robust, maintainable web applications and AI-driven systems that deliver real value to users and businesses. My work blends product thinking with engineering discipline—turning ideas into polished deliverables and production-ready systems.
+I build robust, maintainable web applications and AI-driven systems that deliver real value to users and businesses. My work blends product thinking with engineering discipline—turning ideas int[...]
 
 Portfolio: https://lokanadham-jyoshnavi-portfolio.vercel.app/
 
@@ -56,15 +56,19 @@ Portfolio: https://lokanadham-jyoshnavi-portfolio.vercel.app/
 ## Selected Projects
 (See portfolio for demos, screenshots, and project details)
 
-- HostelMint — Multi-hostel management platform with occupancy tracking, finance dashboards, and role-based admin controls. Built with React and REST APIs to streamline operational workflows and scale multi-tenant data.
-- MedEcho — AI-enabled healthcare assistant for symptom analysis, clinical risk prediction, appointment scheduling, and multilingual support.
-- AI‑Driven Portfolio Creator — Automates the creation of professional portfolio sites from structured inputs, enabling rapid iteration and deployment.
-- Pixel Motion Portfolio — Frontend showcase highlighting motion design, visual polish, and accessibility-focused UX patterns.
-- DS Visualization & Quiz App — Interactive educational platform that teaches data structures through visualizations and practice-based learning.
+- [MedEcho — Talk, Diagnose, Heal](https://github.com/22a91a05i9/MedEcho-Talk-Diagnose-Heal) — AI-enabled clinical intake and reporting pipeline (NLP + Speech-to-Text). Demo: https://med-echo-talk-diagnose-heal.vercel.app/
+- [AI-Driven Portfolio Creator](https://github.com/22a91a05i9/AI-Driven_Portfolio_Creator) — Generates polished portfolio sites from structured inputs using AI content curation. Demo: https://portfolio-website-bu-vjpj.bolt.host/
+- [ML-with-web — Cancer Prediction Web App](https://github.com/22a91a05i9/ML-with-web) — Web UI with a Python ML backend for disease prediction.
+- [Pixel Motion Portfolio](https://github.com/22a91a05i9/pixel-motion-portfolio) — Frontend showcase with motion & accessibility focus.
+- [DS Visualization & Quiz App](https://github.com/22a91a05i9/DS_Visualization_and_QUIZ_App) — Interactive visual learning app for data structures and quizzes.
 
 ## GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=22a91a05i9&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
+  <!-- GitHub readme stats card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=22a91a05i9&show_icons=true&include_all_commits=true&theme=github_dark" alt="GitHub stats" />
+
+  <!-- Top languages card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=22a91a05i9&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
 ## Contact
