@@ -22,8 +22,11 @@
 
 ---
 
+## Profile Overview
+Lokanadham Jyoshnavi is a full‑stack developer and AI/ML practitioner with experience building production-ready web applications and data-driven systems. Her resume highlights experience in React/TypeScript frontends, Python/FastAPI backends, real-time monitoring dashboards, and AI/ML integrations. For a detailed summary of projects, skills, and experience, see the Resume link in the Contact section below.
+
 ## About
-I build robust, maintainable web applications and AI/ML systems that deliver measurable user and business value. I focus on practical, production-ready solutions — from prototyping models and APIs to polished frontends and resilient deployments.
+I build robust, maintainable web applications and AI/ML systems that deliver measurable user and business value. I focus on practical, production-ready solutions — from prototyping models and APIs to shipping final features and deployments.
 
 Portfolio: https://lokanadham-jyoshnavi-portfolio.vercel.app/
 
@@ -53,7 +56,7 @@ Portfolio: https://lokanadham-jyoshnavi-portfolio.vercel.app/
 ## Selected Projects
 (See portfolio for demos, screenshots and details)
 
-- HostelMint — Multi-hostel management platform with occupancy tracking, finance dashboards, and role-based admin controls. Built with React and REST APIs; focused on operational workflows and admin UX.
+- HostelMint — Multi-hostel management platform with occupancy tracking, finance dashboards, and role-based admin controls. Built with React and REST APIs; focused on operational workflows and analytics.
 - MedEcho — AI-enabled healthcare assistant for symptom analysis, clinical risk prediction, appointment scheduling, and multilingual support.
 - AI‑Driven Portfolio Creator — Automates creation of professional portfolio sites from structured inputs; supports quick iteration and deployment.
 - Pixel Motion Portfolio — Frontend showcase highlighting motion design, visual polish, and accessibility.
@@ -67,9 +70,9 @@ Portfolio: https://lokanadham-jyoshnavi-portfolio.vercel.app/
 ## Contact
 - Portfolio: https://lokanadham-jyoshnavi-portfolio.vercel.app/
 - GitHub: https://github.com/22a91a05i9
-- LinkedIn: (add LinkedIn URL)
-- Email: (add your email address)
-- Resume: (add link to PDF)
+- LinkedIn: https://www.linkedin.com/in/lokanadham-jyoshnavi-621a77254/
+- Email: [josh8jyoshnaviclk@gmail.com](mailto:josh8jyoshnaviclk@gmail.com)
+- Resume: [Google Drive Resume](https://drive.google.com/file/d/1kVaFitO_zDKzW4gZWNO7dWN5UdSd5Q2I/view?usp=sharing)
 
 ---
 
