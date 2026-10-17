@@ -23,7 +23,7 @@
 ---
 
 ## Profile Overview
-Lokanadham Jyoshnavi is a full-stack developer and AI/ML practitioner focused on building scalable digital products that combine strong user experience, clean architecture, and measurable business impact. With hands-on experience across frontend engineering, backend systems, and machine learning workflows, she develops practical solutions from concept to deployment. Her work spans React-based interfaces, API development, predictive modeling, and product-ready integrations that help teams deliver value efficiently and reliably.
+I am a full-stack developer and AI/ML practitioner focused on building scalable digital products that combine strong user experience, clean architecture, and measurable business impact. With hands-on experience across frontend engineering, backend systems, and machine learning workflows, she develops practical solutions from concept to deployment. Her work spans React-based interfaces, API development, predictive modeling, and product-ready integrations that help teams deliver value efficiently and reliably.
 
 ## About
 I build robust, maintainable web applications and AI-driven systems that deliver real value to users and businesses. My work blends product thinking with engineering discipline—turning ideas into scalable experiences, reliable systems, and data-informed solutions. I enjoy solving complex problems, iterating quickly, and shipping experiences that are both technically strong and thoughtfully designed.
