@@ -1,6 +1,6 @@
 <div align="center">
 
-![Profile Picture](https://github.com/22a91a05i9.png)
+![Profile Picture](assets/profile.jpg)
 
 # Lokanadham Jyoshnavi
 
@@ -23,10 +23,10 @@
 ---
 
 ## Profile Overview
-Lokanadham Jyoshnavi is a full‑stack developer and AI/ML practitioner with experience building production-ready web applications and data-driven systems. Her resume highlights experience in React/TypeScript frontends, Python/FastAPI backends, real-time monitoring dashboards, and AI/ML integrations. For a detailed summary of projects, skills, and experience, see the Resume link in the Contact section below.
+Lokanadham Jyoshnavi is a full‑stack developer and AI/ML practitioner with experience building production-ready web applications and data-driven systems. Her resume highlights experience in Reac[...]
 
 ## About
-I build robust, maintainable web applications and AI/ML systems that deliver measurable user and business value. I focus on practical, production-ready solutions — from prototyping models and APIs to shipping final features and deployments.
+I build robust, maintainable web applications and AI/ML systems that deliver measurable user and business value. I focus on practical, production-ready solutions — from prototyping models and AP[...]
 
 Portfolio: https://lokanadham-jyoshnavi-portfolio.vercel.app/
 
@@ -56,7 +56,7 @@ Portfolio: https://lokanadham-jyoshnavi-portfolio.vercel.app/
 ## Selected Projects
 (See portfolio for demos, screenshots and details)
 
-- HostelMint — Multi-hostel management platform with occupancy tracking, finance dashboards, and role-based admin controls. Built with React and REST APIs; focused on operational workflows and analytics.
+- HostelMint — Multi-hostel management platform with occupancy tracking, finance dashboards, and role-based admin controls. Built with React and REST APIs; focused on operational workflows and a[...]
 - MedEcho — AI-enabled healthcare assistant for symptom analysis, clinical risk prediction, appointment scheduling, and multilingual support.
 - AI‑Driven Portfolio Creator — Automates creation of professional portfolio sites from structured inputs; supports quick iteration and deployment.
 - Pixel Motion Portfolio — Frontend showcase highlighting motion design, visual polish, and accessibility.
