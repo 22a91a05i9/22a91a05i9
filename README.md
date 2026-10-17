@@ -56,14 +56,14 @@ Portfolio: https://lokanadham-jyoshnavi-portfolio.vercel.app/
 ## Selected Projects
 (See portfolio for demos, screenshots, and project details)
 
-- [MedEcho — Talk, Diagnose, Heal](https://github.com/22a91a05i9/MedEcho-Talk-Diagnose-Heal) — AI-enabled clinical intake and reporting pipeline (NLP + Speech-to-Text). Demo: https://med-echo-[...]
-- [AI-Driven Portfolio Creator](https://github.com/22a91a05i9/AI-Driven_Portfolio_Creator) — Generates polished portfolio sites from structured inputs using AI content curation. Demo: https://po[...]
+- [MedEcho — Talk, Diagnose, Heal](https://github.com/22a91a05i9/MedEcho-Talk-Diagnose-Heal) — AI-enabled clinical intake and reporting pipeline (NLP + Speech-to-Text). Demo: https://med-echo-talk-diagnose-heal.vercel.app/
+- [AI-Driven Portfolio Creator](https://github.com/22a91a05i9/AI-Driven_Portfolio_Creator) — Generates polished portfolio sites from structured inputs using AI content curation. Demo: https://portfolio-website-bu-vjpj.bolt.host/
 - [ML-with-web — Cancer Prediction Web App](https://github.com/22a91a05i9/ML-with-web) — Web UI with a Python ML backend for disease prediction. Dataset / Model: https://drive.google.com/file/d/1r0U7sWl0FC4O0syMeR7q5Oz_iEQvbuVp/view?usp=drive_link
-- [Pixel Motion Portfolio](https://github.com/22a91a05i9/pixel-motion-portfolio) — Frontend showcase with motion & accessibility focus.
-- [DS Visualization & Quiz App](https://github.com/22a91a05i9/DS_Visualization_and_QUIZ_App) — Interactive visual learning app for data structures and quizzes. Demo: https://drive.google.com/fil[...]
+- [Pixel Motion Portfolio](https://github.com/22a91a05i9/pixel-motion-portfolio) — Frontend showcase with motion & accessibility focus. Demo: https://lokanadham-jyoshnavi-portfolio.vercel.app
+- [DS Visualization & Quiz App](https://github.com/22a91a05i9/DS_Visualization_and_QUIZ_App) — Interactive visual learning app for data structures and quizzes. Demo / Download: https://drive.google.com/file/d/13aung7ansQ5InBO-U4xgNWtOlE9k7msb/view
 - [HostelMint — Hostel Management & Water Monitoring](https://github.com/22a91a05i9/HostelMint) — Backend & management platform for hostel owners; multi-hostel support, occupancy tracking, and[...]
 - [AQUA-PULSE-WEB-APP — AquaPulse Web Application](https://github.com/22a91a05i9/AQUA-PULSE-WEB-APP) — Web frontend for the AquaPulse IoT water-monitoring system (paired with AQUA-PULSE-IOT). [...]
-- [CurioCart — CurioCart E-Commerce (Java Swing)](https://github.com/22a91a05i9/CurioCart-E-Commerce_Application_Using_Java_Modified) — Desktop e-commerce prototype demonstrating product brows[...]
+- [CurioCart — CurioCart E-Commerce (Java Swing)](https://github.com/22a91a05i9/CurioCart-E-Commerce_Application_Using_Java_Modified) — Desktop e-commerce prototype demonstrating product brows. Demo / Download: https://drive.google.com/file/d/1y0OiTiY9QS2wsApPqpTW8wlDfS1Vs2Qm/view
 - [Smart Stick — Assistive Navigation Device](https://lokanadham-jyoshnavi-portfolio.vercel.app/#projects) — Hardware + firmware + mobile integration to assist visually impaired users; include[...]
 
 ## GitHub Activity
