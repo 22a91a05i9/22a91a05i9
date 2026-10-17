@@ -1,17 +1,17 @@
 <div align="center">
 
-# Lokanadham Jyoshnavi 👩‍💻
-
 ![Profile Picture](https://github.com/22a91a05i9.png)
 
-**Full‑Stack Engineer • AI/ML Enthusiast • Product‑focused Builder**
+# Lokanadham Jyoshnavi
+
+**Full‑Stack Engineer • AI/ML Engineer • Product‑Oriented Problem Solver**
 
 <p>
   <a href="https://lokanadham-jyoshnavi-portfolio.vercel.app/" target="_blank">
     <img alt="Visit Portfolio" src="https://img.shields.io/badge/Portfolio-Visit%20Now-7C3AED?style=for-the-badge&logo=vercel" />
   </a>
   <a href="https://github.com/22a91a05i9" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-@22a91a05i9-181717?style=for-the-badge&logo=github" />
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%4022a91a05i9-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="mailto:your-email@example.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Contact-Email-blue?style=for-the-badge&logo=gmail" />
@@ -23,64 +23,53 @@
 ---
 
 ## About
-I build clean, user-centered web applications and AI/ML systems that solve real problems. My work blends strong engineering fundamentals with practical product thinking — from prototyping and model development to production-ready frontends and backend services.
+I build robust, maintainable web applications and AI/ML systems that deliver measurable user and business value. I focus on practical, production-ready solutions — from prototyping models and APIs to polished frontends and resilient deployments.
 
-If you'd like to see my work in action, visit my portfolio: https://lokanadham-jyoshnavi-portfolio.vercel.app/
+Visit my portfolio for live demos and case studies: https://lokanadham-jyoshnavi-portfolio.vercel.app/
 
-## Highlights
-- Strong full-stack experience (React + modern JavaScript, REST APIs, relational databases)
-- Machine Learning & NLP: prototyping, model evaluation, and integrating models into products
-- Built solutions for healthcare, education, and operations automation
-- Focused on maintainability, testability, and measurable user value
+## Core Strengths
+- Full‑stack development: modern React frontends, RESTful APIs, and relational/NoSQL databases
+- AI & ML: data processing, model prototyping, evaluation, and product integration (NLP, predictive models)
+- Product & UX mindset: feature scoping, pragmatic MVPs, and iteration based on user feedback
+- DevOps & reliability: containerization, CI/CD, and deployable systems
 
-## Tech Stack
+## Technical Skills
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img alt="Scikit-Learn" src="https://img.shields.io/badge/ML--ScikitLearn-FF8C00?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit--Learn-FF8C00?style=flat-square&logo=scikit-learn&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Postgres" src="https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
 ## Selected Projects
-(See live demos and full writeups on my portfolio)
+(Short descriptions — see portfolio for links, screenshots and demos)
 
-### HostelMint
-A multi-hostel management platform with room tracking, occupancy dashboards, finance monitoring, and role-based admin workflows. Built with React, RESTful APIs, and relational storage.
+- HostelMint — Multi-hostel management with occupancy tracking, finance dashboards, and role-based admin controls. Built with React and REST APIs.
+- MedEcho — AI-assisted healthcare assistant: symptom analysis, clinical-risk prediction, multilingual support, and scheduling workflows.
+- AI-Driven Portfolio Creator — Generates polished personal portfolio sites from structured input; automates layout, content and deployment.
+- Pixel Motion Portfolio — Frontend-first portfolio showcasing motion design and accessible interactions.
+- DS Visualization & Quiz App — Interactive visualizations and quizzes to teach data structures effectively.
 
-### MedEcho — Talk. Diagnose. Heal.
-An AI-enabled healthcare assistant for symptom analysis, multilingual support, clinical risk prediction, and appointment management. Focused on creating safe, explainable flows for triage and scheduling.
-
-### AI-Driven Portfolio Creator
-A tool that generates polished personal portfolio sites from structured inputs (skills, projects, experience), enabling quick portfolio creation and iteration.
-
-### Pixel Motion Portfolio
-A frontend-focused portfolio with motion design, attention to visual hierarchy, and accessible interactions.
-
-### DS Visualization & Quiz App
-An educational app that teaches data structures through interactive visualizations and formative quizzes.
-
-## GitHub Stats
+## GitHub & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=22a91a05i9&show_icons=true&theme=radical&hide_border=true&title_color=F8D866&icon_color=F8D866&text_color=FFFFFF&bg_color=0D1117" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=22a91a05i9&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
 </p>
 
-## Career Highlights
-- Delivered full-stack products with strong UI/UX and operational considerations
-- Built AI-driven features used in clinical and operational decision-making workflows
-- Experienced in end-to-end product delivery: design, data, models, backend, frontend, and deployment
+## What I’m Looking For
+- Collaborations on product-focused AI/ML projects
+- Full‑stack roles where I can take features from prototype to production
+- Opportunities in healthcare tech, educational tools, and developer tooling
 
-## Resume
-If you have a resume PDF you'd like me to link, I can add it here. (Replace the placeholder email and LinkedIn links above with your actual contact details.)
+## Resume & Contact
+- Resume: (add PDF link)
+- LinkedIn: (add LinkedIn URL)
+- Email: your-email@example.com
 
-## Connect
-- Portfolio: https://lokanadham-jyoshnavi-portfolio.vercel.app/
-- GitHub: https://github.com/22a91a05i9
-- LinkedIn: (add your LinkedIn URL)
-- Email: (add your email address)
+Replace the placeholders above with your preferred email, LinkedIn URL and resume link and I’ll update the README to include them.
 
 ---
 
