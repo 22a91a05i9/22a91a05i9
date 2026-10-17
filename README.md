@@ -1,6 +1,6 @@
 <div align="center">
 
-![Profile Picture](assets/profile.jpg)
+<img src="https://github.com/22a91a05i9.png" width="180" alt="Profile Picture" />
 
 # Lokanadham Jyoshnavi
 
@@ -23,23 +23,23 @@
 ---
 
 ## Profile Overview
-Lokanadham Jyoshnavi is a full‑stack developer and AI/ML practitioner with experience building production-ready web applications and data-driven systems. Her resume highlights experience in Reac[...]
+Lokanadham Jyoshnavi is a full-stack developer and AI/ML practitioner focused on building scalable digital products that combine strong user experience, clean architecture, and measurable business impact. With hands-on experience across frontend engineering, backend systems, and machine learning workflows, she develops practical solutions from concept to deployment. Her work spans React-based interfaces, API development, predictive modeling, and product-ready integrations that help teams deliver value efficiently and reliably.
 
 ## About
-I build robust, maintainable web applications and AI/ML systems that deliver measurable user and business value. I focus on practical, production-ready solutions — from prototyping models and AP[...]
+I build robust, maintainable web applications and AI-driven systems that deliver real value to users and businesses. My work blends product thinking with engineering discipline—turning ideas into scalable experiences, reliable systems, and data-informed solutions. I enjoy solving complex problems, iterating quickly, and shipping experiences that are both technically strong and thoughtfully designed.
 
 Portfolio: https://lokanadham-jyoshnavi-portfolio.vercel.app/
 
 ## Open to
-- Full‑stack roles where I can ship features from prototype to production
-- Product-focused AI/ML projects (NLP, predictive modeling, system integration)
+- Full‑stack roles where I can build features from prototype to production
+- Product-focused AI/ML projects involving NLP, predictive modeling, and system integration
 - Collaborations in healthcare tech, edtech, and developer tools
 
 ## Core Strengths
-- Full‑stack engineering: modern React frontends, RESTful APIs, and relational/NoSQL data stores
-- Machine Learning & NLP: data pipelines, model prototyping, evaluation, and product integration
-- Product & UX mindset: pragmatic MVPs and iterative improvements based on user feedback
-- DevOps: containerization, CI/CD, and production deployments
+- Full‑stack engineering: modern React frontends, RESTful APIs, and data-backed product experiences
+- Machine Learning & NLP: data pipelines, model prototyping, evaluation, and practical integration
+- Product & UX mindset: iterative MVP development grounded in user feedback and business goals
+- DevOps: containerization, CI/CD workflows, and production deployment readiness
 
 ## Tech Stack
 <p>
@@ -54,13 +54,13 @@ Portfolio: https://lokanadham-jyoshnavi-portfolio.vercel.app/
 </p>
 
 ## Selected Projects
-(See portfolio for demos, screenshots and details)
+(See portfolio for demos, screenshots, and project details)
 
-- HostelMint — Multi-hostel management platform with occupancy tracking, finance dashboards, and role-based admin controls. Built with React and REST APIs; focused on operational workflows and a[...]
+- HostelMint — Multi-hostel management platform with occupancy tracking, finance dashboards, and role-based admin controls. Built with React and REST APIs to streamline operational workflows and management visibility.
 - MedEcho — AI-enabled healthcare assistant for symptom analysis, clinical risk prediction, appointment scheduling, and multilingual support.
-- AI‑Driven Portfolio Creator — Automates creation of professional portfolio sites from structured inputs; supports quick iteration and deployment.
-- Pixel Motion Portfolio — Frontend showcase highlighting motion design, visual polish, and accessibility.
-- DS Visualization & Quiz App — Interactive educational app teaching data structures with visualizations and quizzes.
+- AI‑Driven Portfolio Creator — Automates the creation of professional portfolio sites from structured inputs, enabling rapid iteration and deployment.
+- Pixel Motion Portfolio — Frontend showcase highlighting motion design, visual polish, and accessibility-focused UX patterns.
+- DS Visualization & Quiz App — Interactive educational platform that teaches data structures through visualizations and practice-based learning.
 
 ## GitHub Activity
 <p align="center">
