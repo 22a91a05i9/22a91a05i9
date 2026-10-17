@@ -1,10 +1,6 @@
-<div align="center" style="background-color:#000;color:#fff;padding:24px;border-radius:8px">
+<div align="center">
 
-  <img src="https://github.com/22a91a05i9.png" width="180" alt="Profile Picture" style="border-radius:50%" />
-
-  # Lokanadham Jyoshnavi
-
-  **Full‑Stack Engineer • AI/ML Engineer • Product‑Oriented Problem Solver**
+  <img src="./assets/banner-dark.svg" width="100%" alt="Banner" />
 
   <p>
     <a href="https://lokanadham-jyoshnavi-portfolio.vercel.app/" target="_blank">
@@ -23,10 +19,10 @@
 ---
 
 ## Profile Overview
-I am a full-stack developer and AI/ML practitioner focused on building scalable digital products that combine strong user experience, clean architecture, and measurable business impact. With hands[...]
+I am a full-stack developer and AI/ML practitioner focused on building scalable digital products that combine strong user experience, clean architecture, and measurable business impact. With hands[...[...]
 
 ## About
-I build robust, maintainable web applications and AI-driven systems that deliver real value to users and businesses. My work blends product thinking with engineering discipline—turning ideas int[...]
+I build robust, maintainable web applications and AI-driven systems that deliver real value to users and businesses. My work blends product thinking with engineering discipline—turning ideas int[...[...]
 
 Portfolio: https://lokanadham-jyoshnavi-portfolio.vercel.app/
 
@@ -54,15 +50,12 @@ Portfolio: https://lokanadham-jyoshnavi-portfolio.vercel.app/
 </p>
 
 ## Selected Projects
-(See portfolio and resume for demos, screenshots, and project details)
+(See portfolio and repositories for demos, screenshots, and project details)
 
-- [MedEcho — Talk, Diagnose, Heal](https://github.com/22a91a05i9/MedEcho-Talk-Diagnose-Heal) — AI-enabled clinical intake and reporting pipeline (NLP + Speech-to-Text). Demo: https://med-echo-[...]
-- [AI-Driven Portfolio Creator](https://github.com/22a91a05i9/AI-Driven_Portfolio_Creator) — Generates polished portfolio sites from structured inputs using AI content curation. Demo: https://po[...]
-- [ML-with-web — Cancer Prediction Web App](https://github.com/22a91a05i9/ML-with-web) — Web UI with a Python ML backend for disease prediction.
-- [Pixel Motion Portfolio](https://github.com/22a91a05i9/pixel-motion-portfolio) — Frontend showcase with motion & accessibility focus.
-- [DS Visualization & Quiz App](https://github.com/22a91a05i9/DS_Visualization_and_QUIZ_App) — Interactive visual learning app for data structures and quizzes.
-- [Hostel Aqua — Hostel Management & Water Monitoring](https://lokanadham-jyoshnavi-portfolio.vercel.app/#projects) — Web app for managing hostel facilities and real-time water monitoring (see portfolio/resume for details).
-- [Smart Stick — Assistive Navigation Device](https://lokanadham-jyoshnavi-portfolio.vercel.app/#projects) — Hardware + firmware + mobile integration to assist visually impaired users; includes obstacle detection and haptic feedback (see resume for technical details).
+- [HostelMint — Hostel Management & Water Monitoring](https://github.com/22a91a05i9/HostelMint) — Backend & management platform for hostel owners; multi-hostel support, occupancy tracking, and income/expense reporting. (See repo for architecture and demo.)
+- [AQUA-PULSE-WEB-APP — AquaPulse Web Application](https://github.com/22a91a05i9/AQUA-PULSE-WEB-APP) — Web frontend for the AquaPulse IoT water-monitoring system (paired with AQUA-PULSE-IOT). Features real-time dashboards and alerting.
+- [CurioCart — CurioCart E-Commerce (Java Swing)](https://github.com/22a91a05i9/CurioCart-E-Commerce_Application_Using_Java_Modified) — Desktop e-commerce prototype demonstrating product browsing and inventory management.
+- [Smart Stick — Assistive Navigation Device](https://lokanadham-jyoshnavi-portfolio.vercel.app/#projects) — Hardware + firmware + mobile integration to assist visually impaired users; includes obstacle detection and haptic feedback. (If you have a dedicated repo for Smart Stick, provide the link and I’ll point this item to it.)
 - Other projects listed on my resume/portfolio: IoT integrations, accessibility-focused frontend work, ML model prototypes, and data visualization tools. See the linked resume for the full list.
 
 ## GitHub Activity
