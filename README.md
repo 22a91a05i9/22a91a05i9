@@ -1,6 +1,6 @@
-<div align="center">
+<div align="center" style="background-color:#000;color:#fff;padding:24px;border-radius:8px">
 
-  <img src="https://github.com/22a91a05i9.png" width="180" alt="Profile Picture" />
+  <img src="https://github.com/22a91a05i9.png" width="180" alt="Profile Picture" style="border-radius:50%" />
 
   # Lokanadham Jyoshnavi
 
@@ -54,13 +54,16 @@ Portfolio: https://lokanadham-jyoshnavi-portfolio.vercel.app/
 </p>
 
 ## Selected Projects
-(See portfolio for demos, screenshots, and project details)
+(See portfolio and resume for demos, screenshots, and project details)
 
-- [MedEcho — Talk, Diagnose, Heal](https://github.com/22a91a05i9/MedEcho-Talk-Diagnose-Heal) — AI-enabled clinical intake and reporting pipeline (NLP + Speech-to-Text). Demo: https://med-echo-talk-diagnose-heal.vercel.app/
-- [AI-Driven Portfolio Creator](https://github.com/22a91a05i9/AI-Driven_Portfolio_Creator) — Generates polished portfolio sites from structured inputs using AI content curation. Demo: https://portfolio-website-bu-vjpj.bolt.host/
+- [MedEcho — Talk, Diagnose, Heal](https://github.com/22a91a05i9/MedEcho-Talk-Diagnose-Heal) — AI-enabled clinical intake and reporting pipeline (NLP + Speech-to-Text). Demo: https://med-echo-[...]
+- [AI-Driven Portfolio Creator](https://github.com/22a91a05i9/AI-Driven_Portfolio_Creator) — Generates polished portfolio sites from structured inputs using AI content curation. Demo: https://po[...]
 - [ML-with-web — Cancer Prediction Web App](https://github.com/22a91a05i9/ML-with-web) — Web UI with a Python ML backend for disease prediction.
 - [Pixel Motion Portfolio](https://github.com/22a91a05i9/pixel-motion-portfolio) — Frontend showcase with motion & accessibility focus.
 - [DS Visualization & Quiz App](https://github.com/22a91a05i9/DS_Visualization_and_QUIZ_App) — Interactive visual learning app for data structures and quizzes.
+- [Hostel Aqua — Hostel Management & Water Monitoring](https://lokanadham-jyoshnavi-portfolio.vercel.app/#projects) — Web app for managing hostel facilities and real-time water monitoring (see portfolio/resume for details).
+- [Smart Stick — Assistive Navigation Device](https://lokanadham-jyoshnavi-portfolio.vercel.app/#projects) — Hardware + firmware + mobile integration to assist visually impaired users; includes obstacle detection and haptic feedback (see resume for technical details).
+- Other projects listed on my resume/portfolio: IoT integrations, accessibility-focused frontend work, ML model prototypes, and data visualization tools. See the linked resume for the full list.
 
 ## GitHub Activity
 <p align="center">
